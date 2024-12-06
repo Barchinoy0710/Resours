@@ -1,0 +1,16 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-image: url('./img/il_fullxfull.5124787773_92fw.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: 0px;
+}
+.aaa {
+  margin: 0%;
+  padding: 0%;
+  background-image: url('./img/tea.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position-y: 0px; 
+}

@@ -1,0 +1,41 @@
+<mxfile host="Electron" modified="2024-06-04T03:47:08.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="QaP6ldaPXbpGIQQAQ-Ky" version="22.0.2" type="device">
+  <diagram name="Page-1" id="S6s_qbteM2A-nhVPYXRI">
+    <mxGraphModel dx="1036" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="vmzaDkzr4cFAUGfzCsH--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="vmzaDkzr4cFAUGfzCsH--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--1" value="Muammo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--4" value="Mahsulot yetishmay qolishi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vmzaDkzr4cFAUGfzCsH--5" target="vmzaDkzr4cFAUGfzCsH--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--5" value="texnik xizmat ko`rsatilishi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--6" value="almashtirish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="411" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--7" value="tuzatish" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="407" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vmzaDkzr4cFAUGfzCsH--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="vmzaDkzr4cFAUGfzCsH--5" target="vmzaDkzr4cFAUGfzCsH--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
